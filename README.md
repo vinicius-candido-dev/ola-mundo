@@ -4,10 +4,9 @@
 ***
 
 repositório criado com o curso do Gustavo Guanabara
-
+linha eu adicionei diretamente pelo site
 
 texts about my learning
-linha eu adicionei diretamente pelo site
 Num | Nome | Nota
 ---|---|---
 1 | Gustavo | 10,0 

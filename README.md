@@ -1,6 +1,7 @@
 # Olá, mundo
 ---
 ## primeiro repositorio
+Este repositório foi o meu primeiro repositorio no github 
 ***
 
 repositório criado com o curso do Gustavo Guanabara

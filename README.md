@@ -1,11 +1,10 @@
 # Olá, mundo
----
 ## Este  primeiro repositório foi o meu primeiro repositorio no github 
 ***
 
 repositório criado com o curso do Gustavo Guanabara
 linha eu adicionei diretamente pelo site
-
+---
 texts about my learning
 Num | Nome | Nota
 ---|---|---
